@@ -1,0 +1,17 @@
+[
+    {"id":1,"nombre":"Café Americano","descripcion":"Café negro clásico.","precio":3.0,"categoria":"Cafetería"},
+    {"id":2,"nombre":"Capuchino","descripcion":"Café con leche espumosa.","precio":3.75,"categoria":"Cafetería"},
+    {"id":3,"nombre":"Latte","descripcion":"Café con leche al vapor.","precio":4.0,"categoria":"Cafetería"},
+    {"id":4,"nombre":"Muffin de Arándanos","descripcion":"Muffin suave con arándanos frescos.","precio":2.5,"categoria":"Cafetería"},
+    {"id":5,"nombre":"Croissant","descripcion":"Croissant recién horneado, crujiente y mantecoso.","precio":2.75,"categoria":"Cafetería"},
+    {"id":6,"nombre":"Sándwich de Jamón y Queso","descripcion":"Sándwich caliente con jamón y queso derretido.","precio":5.5,"categoria":"Cafetería"},
+    {"id":7,"nombre":"Té Verde","descripcion":"Té verde con un toque de limón.","precio":2.25,"categoria":"Cafetería"},
+    {"id":8,"nombre":"Pastel de Zanahoria","descripcion":"Pastel de zanahoria con crema de queso.","precio":4.5,"categoria":"Cafetería"},
+    {"id":10,"nombre":"Spaghetti Bolognese","descripcion":"Pasta con salsa de carne y tomate.","precio":12.5,"categoria":"Principal"},
+    {"id":11,"nombre":"Pizza Margherita","descripcion":"Pizza con tomate, mozzarella y albahaca.","precio":10.0,"categoria":"Principal"},
+    {"id":12,"nombre":"Ensalada César","descripcion":"Ensalada con lechuga, crutones y aderezo César.","precio":8.75,"categoria":"Acompañamiento"},
+    {"id":13,"nombre":"Sopa de Tomate","descripcion":"Sopa cremosa de tomate con albahaca.","precio":6.5,"categoria":"Aperitivo"},
+    {"id":14,"nombre":"Tacos al Pastor","descripcion":"Tacos de cerdo con piña y cilantro.","precio":9.25,"categoria":"Principal"},
+    {"id":15,"nombre":"Sushi Roll","descripcion":"Roll de sushi con salmón, aguacate y arroz.","precio":14.0,"categoria":"Principal"},
+    {"id":16,"nombre":"Hamburguesa Clásica","descripcion":"Hamburguesa con queso, lechuga y tomate.","precio":11.5,"categoria":"Principal"},
+    {"id":17,"nombre":"Risotto de Hongos","descripcion":"Arroz cremoso con champiñones y parmesano.","precio":13.0,"categoria":"Principal"}]

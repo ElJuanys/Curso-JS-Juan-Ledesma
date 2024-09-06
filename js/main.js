@@ -1,6 +1,6 @@
 async function fetchPlatos() {
     try {
-        const response = await fetch("http://200.45.208.91:8080/platos/traerPlatos", {
+        const response = await fetch("/platos.json", {
             method: "GET"
         });
 
