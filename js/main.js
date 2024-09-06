@@ -1,6 +1,6 @@
 async function fetchPlatos() {
     try {
-        const response = await fetch("/platos.json", {
+        const response = await fetch("../data/platos.json", {
             method: "GET"
         });
 
